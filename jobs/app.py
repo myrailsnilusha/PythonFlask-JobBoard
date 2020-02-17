@@ -1,4 +1,4 @@
-import flask from Flask,render_template
+import flask from Flask , render_template
 
 add = Flask(__name__)
 
